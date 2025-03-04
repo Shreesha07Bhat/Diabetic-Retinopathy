@@ -1,1 +1,1 @@
-# Diabetic-Retinopathy
+# RetinoApp
