@@ -6,7 +6,7 @@ A deep learning-based web application that analyzes retinal fundus images and pr
 
 Diabetic Retinopathy is a leading cause of vision loss in people with diabetes, and early detection significantly improves treatment outcomes. This project uses a ResNet50-based convolutional neural network trained on retinal imaging data to classify DR severity, wrapped in a simple Flask web app so users can upload an image and get an instant prediction.
 
-**Built by a 4-member team** as part of our final year B.E. project (SMVITM, VTU) — Rajani, Rohan, Subhiksha, and me.
+**Built by a 4-member team** as part of our final year B.E. project (SMVITM, VTU).
 
 **My contribution:** Front-end development of the Flask web interface (image upload flow and result visualization), preprocessing and organizing the training dataset, and overall task coordination across the team.
 
